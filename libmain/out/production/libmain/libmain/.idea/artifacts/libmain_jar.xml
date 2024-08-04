@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="libmain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/libmain_jar</output-path>
+    <root id="archive" name="libmain.jar">
+      <element id="module-output" name="libmain" />
+    </root>
+  </artifact>
+</component>

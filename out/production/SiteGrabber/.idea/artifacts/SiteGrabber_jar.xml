@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SiteGrabber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SiteGrabber_jar</output-path>
+    <root id="archive" name="SiteGrabber.jar">
+      <element id="module-output" name="SiteGrabber" />
+    </root>
+  </artifact>
+</component>
