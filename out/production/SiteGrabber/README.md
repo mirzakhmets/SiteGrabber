@@ -1,2 +1,2 @@
 # SiteGrabber
- Web Site Downloader & Copier
+ Web site downloader and copier
